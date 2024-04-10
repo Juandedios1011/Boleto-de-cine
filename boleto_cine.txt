@@ -1,0 +1,13 @@
+----------------------------------------------
+      CINEMESSI - BOLETO CAMPEON DEL MUNDO
+----------------------------------------------
+Pelicula: LAS CRONICAS DE MESSI
+Sala: Sala 5
+Hora de la funcion: 12:30
+Asiento: Fila B, Asiento 12
+----------------------------------------------
+Nombre: Juan Quevedo
+Cedula: 31343576
+----------------------------------------------
+¡Disfrute su pelicula. Feliz noche!
+----------------------------------------------
